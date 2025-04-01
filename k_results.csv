@@ -1,6 +1,4 @@
-k;Score (%);Highest Risk (%);Success Rate (%);N.-U. Entropy of Age (%)
-5;6.299;20;3.64;52.728
-7;7.036;14.286;3.527;52.389
-10;8.737;10;1.894;34.893
-12;9.286;8.333;1.846;34.768
-15;10.057;6.25;1.791;34.615
+k;N.-U. Entropy (%);Discernibility (%);Record-level Squared Error (%);Attribute-level Squared Error (%);Loss Score (%);Highest Risk (%);Success Rate (%)
+5;67.174;98.802;87.406;96.302;6.299;20;3.640
+10;59.677;99.050;81.848;92.710;8.737;10;1.894
+15;59.010;97.501;80.930;91.819;10.060;6.250;1.791
