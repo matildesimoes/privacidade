@@ -1,4 +1,4 @@
-k,t,N.-U. entropy,Discernibility,Record-level squared error,Attribute-level squared error,Loss score,Highest Risk,Success Rate
+k,t,N.-U. entropy (%),Discernibility (%),Record-level squared error (%),Attribute-level squared error (%),Loss score (%),Highest Risk (%),Success Rate (%)
 5,0.15,59.77,95.56,77.14,93.75,14.29,16.66,2.23
 10,0.15,59.37,94.81,76.49,93.08,14.99,10.00,2.14
 15,0.15,52.89,95.94,73.79,90.74,16.19,6.23,1.15
